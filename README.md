@@ -1,1 +1,1 @@
-# DeeoLearning
+# DeepLearning
